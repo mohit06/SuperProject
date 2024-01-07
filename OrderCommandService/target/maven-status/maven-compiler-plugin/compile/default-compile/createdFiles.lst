@@ -1,0 +1,5 @@
+com/ordercommandservice/app/entities/OrderEntity.class
+com/ordercommandservice/app/OrderCommandServiceApplication.class
+com/ordercommandservice/app/controllers/OrderController.class
+com/ordercommandservice/app/services/OrderService.class
+com/ordercommandservice/app/repos/OrderRepo.class
